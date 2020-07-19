@@ -24,4 +24,3 @@ Note: python >= 3.6
 
 Type this command in your terminal to install and use this library.
 
-Now lets see and understand the code.
