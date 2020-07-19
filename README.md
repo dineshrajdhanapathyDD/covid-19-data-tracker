@@ -2,9 +2,9 @@
 Covid-19 Tracker Application Using Python
 We need to use three different libraries here.
 
-tkinter – for GUI
-matplotlib – to show data graphically
-covid – to get COVID data
+tkinter – for GUI ,
+matplotlib – to show data graphically,
+covid – to get COVID data.
 
 You can install “matplotlib” using the pip command given below
 
